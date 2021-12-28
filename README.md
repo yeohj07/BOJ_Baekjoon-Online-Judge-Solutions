@@ -2,6 +2,6 @@
 Baekjoon Online Judge Problem Solutions I solved
 
 Solutions are classified and organized by problem number.  
-ex) Problem #2584 is in 02000s/  
+ex) Solution of Problem #2584 is in 02000s/  
   
   
