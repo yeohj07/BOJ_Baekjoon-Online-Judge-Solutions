@@ -1,4 +1,4 @@
-# Baekjoon-Online-Judge-Solution
+# Baekjoon-Online-Judge-Solution (~ 2022/01/20)
 Baekjoon Online Judge Problem Solutions I solved
 
 Solutions are classified and organized by problem number.  
